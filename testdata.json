@@ -1,0 +1,92 @@
+{
+    "324-93-7196": {
+        "ssn": "324-93-7196",
+        "name": "Amber Jones",
+        "address": "PSC 8851, Box 3545APO AA 47650",
+        "email": "elizabeth83@example.com",
+        "title": "Magazine journalist",
+        "phone": "747.166.6430x2603",
+        "company": "Smith-Torres"
+    },
+    "650-51-5611": {
+        "ssn": "650-51-5611",
+        "name": "Gwendolyn Nguyen",
+        "address": "Unit 3419 Box 9503DPO AE 64454",
+        "email": "nchavez@example.net",
+        "title": "Proofreader",
+        "phone": "115-178-3734",
+        "company": "Miller-Chapman"
+    },
+    "798-53-5077": {
+        "ssn": "798-53-5077",
+        "name": "Steven Bishop",
+        "address": "8253 Amy LakeColontown, MS 12795",
+        "email": "vincentisaac@example.com",
+        "title": "Accountant, chartered certified",
+        "phone": "(483)506-7450",
+        "company": "Rowe-Bailey"
+    },
+    "497-58-5757": {
+        "ssn": "497-58-5757",
+        "name": "Kimberly Rivera",
+        "address": "4073 Frazier LightsLake Karen, NE 83982",
+        "email": "rubiojennifer@example.com",
+        "title": "Games developer",
+        "phone": "001-393-621-8827x0308",
+        "company": "Smith, Hale and Morris"
+    },
+    "496-67-7256": {
+        "ssn": "496-67-7256",
+        "name": "Andrew Daniels",
+        "address": "1302 Peter Walk Suite 065North Tamaraland, WI 86773",
+        "email": "qfrye@example.org",
+        "title": "Facilities manager",
+        "phone": "(428)348-6982",
+        "company": "Gonzales-Walsh"
+    },
+    "058-88-7495": {
+        "ssn": "058-88-7495",
+        "name": "Elizabeth Martinez",
+        "address": "90318 Robbins Gardens Apt. 693Port Jessica, MN 75926",
+        "email": "tracey07@example.org",
+        "title": "Social researcher",
+        "phone": "001-481-429-1367",
+        "company": "Maxwell Inc"
+    },
+    "389-81-3722": {
+        "ssn": "389-81-3722",
+        "name": "Anthony Atkinson",
+        "address": "USS GeorgeFPO AA 39948",
+        "email": "okramer@example.org",
+        "title": "Illustrator",
+        "phone": "(163)225-8144",
+        "company": "Camacho-Kim"
+    },
+    "130-51-2536": {
+        "ssn": "130-51-2536",
+        "name": "Jessica Smith",
+        "address": "6735 Hopkins Inlet Apt. 181Walkermouth, LA 11709",
+        "email": "zsexton@example.org",
+        "title": "Accountant, chartered certified",
+        "phone": "(750)239-4072x99979",
+        "company": "Hutchinson and Sons"
+    },
+    "801-39-0313": {
+        "ssn": "801-39-0313",
+        "name": "Nicole Jones",
+        "address": "7185 Price RueSouth Brian, CO 09279",
+        "email": "rosemccullough@example.org",
+        "title": "Telecommunications researcher",
+        "phone": "(440)758-7849x58813",
+        "company": "Williams-Kelly"
+    },
+    "609-82-6349": {
+        "ssn": "609-82-6349",
+        "name": "Tiffany Roberts",
+        "address": "398 William SpurSmithstad, AK 05429",
+        "email": "aking@example.com",
+        "title": "Web designer",
+        "phone": "+1-038-899-9378",
+        "company": "Chapman-Patel"
+    }
+}
